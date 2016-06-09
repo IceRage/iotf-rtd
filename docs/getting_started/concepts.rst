@@ -13,7 +13,7 @@ registers with the organization that "owns" the API key.
 
 For your security it is impossible for cross-organization communication within the
 Watson IoT platform eco-system, intentional or otherwise.  The only way 
-to transmit data between two organizations it to explicitly create 
+to transmit data between two organizations is to explicitly create 
 two applications, one within each organization, that communicate with each other to
 act as a relay between the organizations.
 
